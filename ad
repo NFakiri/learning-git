@@ -1,0 +1,35 @@
+[33mcommit c0c04a6fb8cfdefd7f0cabfa69ac2d5b877005ad[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: NFakiri <87773912+NFakiri@users.noreply.github.com>
+Date:   Mon Jul 26 15:03:31 2021 +0100
+
+    added package main
+
+[33mcommit 71e17188cd0788f5c0a192e8a89cd5f0f9151fed[m
+Author: NFakiri <87773912+NFakiri@users.noreply.github.com>
+Date:   Mon Jul 26 14:59:55 2021 +0100
+
+    Create README.md
+
+[33mcommit e5691b4b3bf0ccb446fc47d8567abac1d5c5fc8e[m
+Author: Nisar Fakiri <fakirinisar@gmail.com>
+Date:   Mon Jul 26 14:57:21 2021 +0100
+
+    added main.go with empty main function
+
+[33mcommit 89cb218c447a0b97cd56d118430a13423a77ba2c[m
+Author: Nisar Fakiri <fakirinisar@gmail.com>
+Date:   Sat Jul 24 16:41:09 2021 +0100
+
+    added body{} in main.css
+
+[33mcommit 170be3251bd045f724d9ef0685e6b921bf4351be[m
+Author: Nisar Fakiri <fakirinisar@gmail.com>
+Date:   Sat Jul 24 16:28:54 2021 +0100
+
+    added console.log
+
+[33mcommit 0e3e4039acc4288f750465b170be31c57fac0164[m
+Author: Nisar Fakiri <fakirinisar@gmail.com>
+Date:   Sat Jul 24 16:16:59 2021 +0100
+
+    bootstrap project
